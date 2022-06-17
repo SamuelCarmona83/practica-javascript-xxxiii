@@ -1,0 +1,25 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "a practice of Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelCarmona83/practica-javascript-xxxiii.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "ccs33",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelCarmona83/practica-javascript-xxxiii/issues"
+  },
+  "homepage": "https://github.com/SamuelCarmona83/practica-javascript-xxxiii#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
